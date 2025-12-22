@@ -1,0 +1,246 @@
+,subject_id,Species,Week,abundance
+0, Subject 100,A. colihominis,0,0.00037
+1, Subject 102,A. colihominis,0,0.00066
+2, Subject 110,A. colihominis,0,0.00112
+3, Subject 111,A. colihominis,0,0.00136
+4, Subject 126,A. colihominis,0,0.00335
+5, Subject 132,A. colihominis,0,2e-05
+6, Subject 133,A. colihominis,0,0.00044
+7, Subject 144,A. colihominis,0,0.00038
+8, Subject 153,A. colihominis,0,0.00101
+9, Subject 156,A. colihominis,0,0.00021
+10, Subject 157,A. colihominis,0,0.00042
+11, Subject 158,A. colihominis,0,0.00174
+12, Subject 166,A. colihominis,0,0.00082
+13, Subject 171,A. colihominis,0,0.00121
+14, Subject 176,A. colihominis,0,0.00097
+15, Subject 35,A. colihominis,0,0.00096
+16, Subject 53,A. colihominis,0,0.00331
+17, Subject 55,A. colihominis,0,0.00191
+18, Subject 59,A. colihominis,0,0.00939
+19, Subject 67,A. colihominis,0,0.00083
+20, Subject 69,A. colihominis,0,0.00063
+21, Subject 100,A. colihominis,12,0.00184
+22, Subject 110,A. colihominis,12,0.00519
+23, Subject 111,A. colihominis,12,0.00282
+24, Subject 126,A. colihominis,12,0.00446
+25, Subject 132,A. colihominis,12,0.00023
+26, Subject 133,A. colihominis,12,0.00019
+27, Subject 144,A. colihominis,12,0.00029
+28, Subject 153,A. colihominis,12,0.00032
+29, Subject 156,A. colihominis,12,0.00473
+30, Subject 157,A. colihominis,12,0.00036
+31, Subject 158,A. colihominis,12,0.00369
+32, Subject 166,A. colihominis,12,0.00237
+33, Subject 171,A. colihominis,12,0.00177
+34, Subject 176,A. colihominis,12,0.00115
+35, Subject 35,A. colihominis,12,0.00106
+36, Subject 53,A. colihominis,12,2e-05
+37, Subject 55,A. colihominis,12,0.00233
+38, Subject 59,A. colihominis,12,0.00311
+39, Subject 67,A. colihominis,12,0.00024
+40, Subject 69,A. colihominis,12,6e-05
+41, Subject 100,C. symbiosum,0,0.0
+42, Subject 102,C. symbiosum,0,0.00081
+43, Subject 110,C. symbiosum,0,0.00171
+44, Subject 111,C. symbiosum,0,0.00019
+45, Subject 126,C. symbiosum,0,0.00024
+46, Subject 132,C. symbiosum,0,0.00047
+47, Subject 133,C. symbiosum,0,0.00017
+48, Subject 144,C. symbiosum,0,0.0015
+49, Subject 153,C. symbiosum,0,0.00022
+50, Subject 156,C. symbiosum,0,0.00041
+51, Subject 157,C. symbiosum,0,4e-05
+52, Subject 158,C. symbiosum,0,3e-05
+53, Subject 166,C. symbiosum,0,0.00476
+54, Subject 171,C. symbiosum,0,0.00105
+55, Subject 176,C. symbiosum,0,0.00035
+56, Subject 35,C. symbiosum,0,0.00263
+57, Subject 53,C. symbiosum,0,0.00305
+58, Subject 55,C. symbiosum,0,0.00077
+59, Subject 59,C. symbiosum,0,0.00038
+60, Subject 67,C. symbiosum,0,0.00017
+61, Subject 69,C. symbiosum,0,4e-05
+62, Subject 100,C. symbiosum,12,0.00036
+63, Subject 110,C. symbiosum,12,0.00377
+64, Subject 111,C. symbiosum,12,0.00236
+65, Subject 126,C. symbiosum,12,0.00349
+66, Subject 132,C. symbiosum,12,0.00391
+67, Subject 133,C. symbiosum,12,0.00717
+68, Subject 144,C. symbiosum,12,0.00109
+69, Subject 153,C. symbiosum,12,0.00026
+70, Subject 156,C. symbiosum,12,0.01225
+71, Subject 157,C. symbiosum,12,0.00027
+72, Subject 158,C. symbiosum,12,0.00246
+73, Subject 166,C. symbiosum,12,0.00467
+74, Subject 171,C. symbiosum,12,0.00172
+75, Subject 176,C. symbiosum,12,0.00026
+76, Subject 35,C. symbiosum,12,0.04537
+77, Subject 53,C. symbiosum,12,0.00061
+78, Subject 55,C. symbiosum,12,0.0008
+79, Subject 59,C. symbiosum,12,0.00105
+80, Subject 67,C. symbiosum,12,9e-05
+81, Subject 69,C. symbiosum,12,0.00054
+82, Subject 100,D. longicatena,0,0.00914
+83, Subject 102,D. longicatena,0,4e-05
+84, Subject 110,D. longicatena,0,0.00379
+85, Subject 111,D. longicatena,0,0.00012
+86, Subject 126,D. longicatena,0,7e-05
+87, Subject 132,D. longicatena,0,0.00465
+88, Subject 133,D. longicatena,0,0.00796
+89, Subject 144,D. longicatena,0,0.03129
+90, Subject 153,D. longicatena,0,0.02449
+91, Subject 156,D. longicatena,0,0.00051
+92, Subject 157,D. longicatena,0,0.00838
+93, Subject 158,D. longicatena,0,0.0363
+94, Subject 166,D. longicatena,0,0.02029
+95, Subject 171,D. longicatena,0,0.01064
+96, Subject 176,D. longicatena,0,0.01106
+97, Subject 35,D. longicatena,0,2e-05
+98, Subject 53,D. longicatena,0,0.00033
+99, Subject 55,D. longicatena,0,0.01082
+100, Subject 59,D. longicatena,0,0.00027
+101, Subject 67,D. longicatena,0,0.01691
+102, Subject 69,D. longicatena,0,0.00771
+103, Subject 100,D. longicatena,12,9e-05
+104, Subject 110,D. longicatena,12,0.03132
+105, Subject 111,D. longicatena,12,0.00652
+106, Subject 126,D. longicatena,12,0.01172
+107, Subject 132,D. longicatena,12,0.00767
+108, Subject 133,D. longicatena,12,0.02452
+109, Subject 144,D. longicatena,12,0.00415
+110, Subject 153,D. longicatena,12,0.01246
+111, Subject 156,D. longicatena,12,0.07934
+112, Subject 157,D. longicatena,12,0.0212
+113, Subject 158,D. longicatena,12,0.00043
+114, Subject 166,D. longicatena,12,0.01096
+115, Subject 171,D. longicatena,12,0.00834
+116, Subject 176,D. longicatena,12,0.01274
+117, Subject 35,D. longicatena,12,0.00022
+118, Subject 53,D. longicatena,12,0.0
+119, Subject 55,D. longicatena,12,0.03041
+120, Subject 59,D. longicatena,12,0.04539
+121, Subject 67,D. longicatena,12,0.00633
+122, Subject 69,D. longicatena,12,0.00078
+123, Subject 100,E. bolteae,0,0.00067
+124, Subject 102,E. bolteae,0,0.00219
+125, Subject 110,E. bolteae,0,0.00444
+126, Subject 111,E. bolteae,0,0.00227
+127, Subject 126,E. bolteae,0,0.00058
+128, Subject 132,E. bolteae,0,0.00087
+129, Subject 133,E. bolteae,0,0.00053
+130, Subject 144,E. bolteae,0,0.00061
+131, Subject 153,E. bolteae,0,0.00065
+132, Subject 156,E. bolteae,0,0.0035
+133, Subject 157,E. bolteae,0,0.00016
+134, Subject 158,E. bolteae,0,0.0001
+135, Subject 166,E. bolteae,0,0.00243
+136, Subject 171,E. bolteae,0,0.00078
+137, Subject 176,E. bolteae,0,0.00072
+138, Subject 35,E. bolteae,0,0.00045
+139, Subject 53,E. bolteae,0,0.02037
+140, Subject 55,E. bolteae,0,0.00195
+141, Subject 59,E. bolteae,0,0.01347
+142, Subject 67,E. bolteae,0,0.00055
+143, Subject 69,E. bolteae,0,0.00021
+144, Subject 100,E. bolteae,12,0.00092
+145, Subject 110,E. bolteae,12,0.0055
+146, Subject 111,E. bolteae,12,0.00079
+147, Subject 126,E. bolteae,12,0.00419
+148, Subject 132,E. bolteae,12,0.00621
+149, Subject 133,E. bolteae,12,0.00963
+150, Subject 144,E. bolteae,12,0.00104
+151, Subject 153,E. bolteae,12,0.00068
+152, Subject 156,E. bolteae,12,0.04144
+153, Subject 157,E. bolteae,12,0.00157
+154, Subject 158,E. bolteae,12,0.00766
+155, Subject 166,E. bolteae,12,0.00122
+156, Subject 171,E. bolteae,12,0.00111
+157, Subject 176,E. bolteae,12,0.00132
+158, Subject 35,E. bolteae,12,0.01328
+159, Subject 53,E. bolteae,12,0.02001
+160, Subject 55,E. bolteae,12,0.00355
+161, Subject 59,E. bolteae,12,0.00403
+162, Subject 67,E. bolteae,12,0.00115
+163, Subject 69,E. bolteae,12,0.07493
+164, Subject 100,F. plautii,0,0.00093
+165, Subject 102,F. plautii,0,0.0077
+166, Subject 110,F. plautii,0,0.00221
+167, Subject 111,F. plautii,0,0.00365
+168, Subject 126,F. plautii,0,0.00676
+169, Subject 132,F. plautii,0,0.00397
+170, Subject 133,F. plautii,0,0.00307
+171, Subject 144,F. plautii,0,0.00499
+172, Subject 153,F. plautii,0,0.0008
+173, Subject 156,F. plautii,0,0.0078
+174, Subject 157,F. plautii,0,0.00178
+175, Subject 158,F. plautii,0,0.00067
+176, Subject 166,F. plautii,0,0.00723
+177, Subject 171,F. plautii,0,0.00416
+178, Subject 176,F. plautii,0,0.0018
+179, Subject 35,F. plautii,0,0.00514
+180, Subject 53,F. plautii,0,0.00489
+181, Subject 55,F. plautii,0,0.00791
+182, Subject 59,F. plautii,0,0.0777
+183, Subject 67,F. plautii,0,0.00265
+184, Subject 69,F. plautii,0,0.00149
+185, Subject 100,F. plautii,12,0.00498
+186, Subject 110,F. plautii,12,0.00312
+187, Subject 111,F. plautii,12,0.01101
+188, Subject 126,F. plautii,12,0.00494
+189, Subject 132,F. plautii,12,0.0112
+190, Subject 133,F. plautii,12,0.0113
+191, Subject 144,F. plautii,12,0.00341
+192, Subject 153,F. plautii,12,0.0006
+193, Subject 156,F. plautii,12,0.18911
+194, Subject 157,F. plautii,12,0.00603
+195, Subject 158,F. plautii,12,0.00217
+196, Subject 166,F. plautii,12,0.01388
+197, Subject 171,F. plautii,12,0.02801
+198, Subject 176,F. plautii,12,0.01045
+199, Subject 35,F. plautii,12,0.05751
+200, Subject 53,F. plautii,12,0.0078
+201, Subject 55,F. plautii,12,0.00452
+202, Subject 59,F. plautii,12,0.00945
+203, Subject 67,F. plautii,12,0.00179
+204, Subject 69,F. plautii,12,0.00482
+205, Subject 100,S.intestinalis,0,0.0
+206, Subject 102,S.intestinalis,0,0.00022
+207, Subject 110,S.intestinalis,0,2e-05
+208, Subject 111,S.intestinalis,0,0.00016
+209, Subject 126,S.intestinalis,0,0.00035
+210, Subject 132,S.intestinalis,0,0.0
+211, Subject 133,S.intestinalis,0,0.00012
+212, Subject 144,S.intestinalis,0,6e-05
+213, Subject 153,S.intestinalis,0,3e-05
+214, Subject 156,S.intestinalis,0,0.00029
+215, Subject 157,S.intestinalis,0,1e-05
+216, Subject 166,S.intestinalis,0,0.00031
+217, Subject 171,S.intestinalis,0,5e-05
+218, Subject 176,S.intestinalis,0,5e-05
+219, Subject 35,S.intestinalis,0,0.00434
+220, Subject 53,S.intestinalis,0,0.00809
+221, Subject 55,S.intestinalis,0,0.00068
+222, Subject 59,S.intestinalis,0,4e-05
+223, Subject 67,S.intestinalis,0,1e-05
+224, Subject 69,S.intestinalis,0,0.0
+225, Subject 100,S.intestinalis,12,0.00099
+226, Subject 110,S.intestinalis,12,0.00585
+227, Subject 111,S.intestinalis,12,5e-05
+228, Subject 126,S.intestinalis,12,0.00129
+229, Subject 132,S.intestinalis,12,0.00033
+230, Subject 133,S.intestinalis,12,0.00057
+231, Subject 144,S.intestinalis,12,0.00275
+232, Subject 153,S.intestinalis,12,0.00087
+233, Subject 156,S.intestinalis,12,0.0
+234, Subject 157,S.intestinalis,12,0.00278
+235, Subject 158,S.intestinalis,12,0.0035
+236, Subject 166,S.intestinalis,12,0.00358
+237, Subject 171,S.intestinalis,12,0.00245
+238, Subject 176,S.intestinalis,12,0.0017
+239, Subject 35,S.intestinalis,12,0.0015
+240, Subject 53,S.intestinalis,12,0.00016
+241, Subject 55,S.intestinalis,12,0.00257
+242, Subject 59,S.intestinalis,12,0.00631
+243, Subject 67,S.intestinalis,12,0.00023
+244, Subject 69,S.intestinalis,12,0.00309
